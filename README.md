@@ -3,6 +3,8 @@
 
 ## Overview
 
+minimal version
+
 This library is intended to be used for apps that implement device
 logic in JavaScript. It is essentially a collection of libraries that
 implement a wide set of functionalities - from hardware peripherals API
